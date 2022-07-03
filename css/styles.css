@@ -51,9 +51,6 @@ img {
 address {
   font-style: normal;
 }
-:focus {
-  outline-style: none;
-}
 
 .container {
   width: 1200px;
